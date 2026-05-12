@@ -1,6 +1,16 @@
-h1{
-      font-family: "Boldonse", system-ui;
-  font-style: normal;
-    color:#cc0000;
-   
+h1 {
+    font-family: "Graduate", serif;
+    font-weight: 900;
+    font-size: 83px;
+    font-style: normal;
+    color: #f70909;
+
+}
+
+p {
+    font-family: "Twinkle Star", cursive;
+    font-weight: 550;
+    font-size: 39px;
+    font-style: normal;
+    color: rgb(6, 64, 170);
 }
